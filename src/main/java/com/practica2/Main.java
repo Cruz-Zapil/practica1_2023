@@ -31,6 +31,7 @@ public class Main extends JFrame {
 
    // this.add(tablero);
 
+   
     this.setResizable(false);
     this.setVisible(true);
   }
